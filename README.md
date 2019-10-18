@@ -1,2 +1,3 @@
-# zenvia-sdk-go
-Zenvia CPaaS SDK for Go https://zenapi.zenvia.com/
+# Zenvia SDK for Go
+
+This SDK for [Golang](https://https://golang.org/) was created based on the [Zenvia](https://www.zenvia.com/) [API](https://zenvia.github.io/zenvia-openapi-spec/).
